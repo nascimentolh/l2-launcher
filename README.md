@@ -10,7 +10,8 @@ e abre o jogo.
 
 - **Windows 10/11.** Precisa do *Microsoft Edge WebView2 Runtime* (já vem no Windows atualizado).
 - Arquivo único: não tem instalador nem pasta extra. Baixou, abriu, pronto.
-- Depois de instalado ele se mantém atualizado sozinho.
+- Ele mantém o **cliente do jogo** atualizado a cada abertura. Para atualizar o **próprio
+  launcher**, baixe a versão nova aqui.
 
 Sites: [l2darion.com](https://l2darion.com) · [l2reverie.com](https://l2reverie.com)
 
